@@ -1,0 +1,67 @@
+
+.Fondo {
+  color:white;
+  font-family: 'Times New Roman', Times, serif;
+  background-image: url(https://wallpaperaccess.com/full/1307259.jpg);
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.nombreaero {
+  color:white;
+  background-color: black;
+  text-align: center;
+  font-weight: lighter;
+  font-family: 'Times New Roman', Times, serif; 
+}
+
+.title{
+  font-weight: lighter;
+}
+.form{
+  border-color:black;
+  border-width: 2px;
+  border-style: solid;
+  padding-left: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 400px;
+  margin-right: 400px;
+  background-color:black;
+}
+.subtitle{
+  color:white;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: lighter;
+}
+
+
+.gender{
+  margin-top: 20px;
+}
+
+.select{
+  margin-top: 20px;
+}
+
+.vegan{
+  margin-top: 20px;
+}
+
+.confirmation{
+  background-image: url(https://wallpaperaccess.com/full/1307259.jpg);  
+  position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.confirmation-text{
+  margin-top: 200px;
+  font-size: 40px;
+  text-align: center;
+  background-color: black;
+  padding: 5px 5px 5px 5px;
+  color: white;
+  margin-left: 300px;
+  margin-right: 300px;
+}
