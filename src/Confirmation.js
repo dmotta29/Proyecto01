@@ -12,7 +12,7 @@ class Confirmation extends React.Component{
 }
 
 componentWillMount(){
-    alert()
+    document.title = 'Confirmation'
 }
 
 close(){
